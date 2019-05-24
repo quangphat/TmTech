@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\bin\Debug\Tmtech.SDK.Control.dll
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\bin\Debug\Tmtech.SDK.Control.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.dll.licenses
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.dll
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.GridControlView.resources
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.csproj.GenerateResource.Cache
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\bin\Debug\Tmtech.SDK.Control.dll
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\bin\Debug\Tmtech.SDK.Control.pdb
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.GridControlView.resources
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.csproj.GenerateResource.Cache
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.dll.licenses
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.dll
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.pdb
+F:\Developer\Tmtech.SDK.Control\Tmtech.SDK.Control\obj\Debug\Tmtech.SDK.Control.csprojResolveAssemblyReference.cache

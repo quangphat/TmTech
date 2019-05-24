@@ -1,0 +1,184 @@
+﻿namespace TmTech_v1.View
+{
+    partial class frmCreateCategory
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label3 = new System.Windows.Forms.Label();
+            this.lblName = new System.Windows.Forms.Label();
+            this.txtNote = new TmTech_v1.ToolBoxCS.AutoTextBox();
+            this.btnSave = new ModernUI.Controls.BootstrapButton();
+            this.btnCancel = new ModernUI.Controls.BootstrapButton();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtCode = new TmTech_v1.ToolBoxCS.TextBoxValidation();
+            this.txtName = new TmTech_v1.ToolBoxCS.TextBoxValidation();
+            this.lblNotify1 = new TmTech_v1.ToolBoxCS.LabelNotify();
+            this.SuspendLayout();
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(38, 245);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(37, 13);
+            this.label3.TabIndex = 19;
+            this.label3.Text = "Mô tả:";
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Location = new System.Drawing.Point(39, 131);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(54, 13);
+            this.lblName.TabIndex = 15;
+            this.lblName.Text = "Mã nhóm:";
+            // 
+            // txtNote
+            // 
+            this.txtNote.BindingFor = "Category";
+            this.txtNote.BindingName = "Note";
+            this.txtNote.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtNote.Location = new System.Drawing.Point(43, 261);
+            this.txtNote.Multiline = true;
+            this.txtNote.Name = "txtNote";
+            this.txtNote.Size = new System.Drawing.Size(244, 99);
+            this.txtNote.TabIndex = 29;
+            // 
+            // btnSave
+            // 
+            this.btnSave.AutoSize = true;
+            this.btnSave.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnSave.BootstrapStyle = ModernUI.ModernUIManager.BootstrapStyle.Primary;
+            this.btnSave.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnSave.Depth = 0;
+            this.btnSave.Icon = null;
+            this.btnSave.Location = new System.Drawing.Point(197, 63);
+            this.btnSave.MouseState = ModernUI.MouseState.HOVER;
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(55, 36);
+            this.btnSave.TabIndex = 31;
+            this.btnSave.Text = "Save";
+            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click_1);
+            // 
+            // btnCancel
+            // 
+            this.btnCancel.AutoSize = true;
+            this.btnCancel.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.btnCancel.BootstrapStyle = ModernUI.ModernUIManager.BootstrapStyle.Warning;
+            this.btnCancel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCancel.Depth = 0;
+            this.btnCancel.Icon = null;
+            this.btnCancel.Location = new System.Drawing.Point(258, 63);
+            this.btnCancel.MouseState = ModernUI.MouseState.HOVER;
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(73, 36);
+            this.btnCancel.TabIndex = 32;
+            this.btnCancel.Text = "Cancel";
+            this.btnCancel.UseVisualStyleBackColor = true;
+            this.btnCancel.Click += new System.EventHandler(this.bootstrapButton2_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(40, 188);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(58, 13);
+            this.label2.TabIndex = 33;
+            this.label2.Text = "Tên nhóm:";
+            // 
+            // txtCode
+            // 
+            this.txtCode.BindingFor = "Category";
+            this.txtCode.BindingName = "CategoryCode";
+            this.txtCode.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCode.ForeColor = System.Drawing.Color.Black;
+            this.txtCode.Location = new System.Drawing.Point(43, 148);
+            this.txtCode.Name = "txtCode";
+            this.txtCode.Size = new System.Drawing.Size(243, 26);
+            this.txtCode.TabIndex = 35;
+            // 
+            // txtName
+            // 
+            this.txtName.BindingFor = "Category";
+            this.txtName.BindingName = "CategoryName";
+            this.txtName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtName.ForeColor = System.Drawing.Color.Black;
+            this.txtName.Location = new System.Drawing.Point(43, 205);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(243, 26);
+            this.txtName.TabIndex = 36;
+            // 
+            // lblNotify1
+            // 
+            this.lblNotify1.AutoSize = true;
+            this.lblNotify1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNotify1.Location = new System.Drawing.Point(38, 113);
+            this.lblNotify1.Name = "lblNotify1";
+            this.lblNotify1.Size = new System.Drawing.Size(79, 16);
+            this.lblNotify1.Status = TmTech_v1.ToolBoxCS.LabelNotify.EnumStatus.Other;
+            this.lblNotify1.TabIndex = 37;
+            this.lblNotify1.Text = "labelNotify1";
+            // 
+            // frmCreateCategory
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(334, 385);
+            this.Controls.Add(this.lblNotify1);
+            this.Controls.Add(this.txtName);
+            this.Controls.Add(this.txtCode);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.btnSave);
+            this.Controls.Add(this.txtNote);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.lblName);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "frmCreateCategory";
+            this.Resizable = false;
+            this.Text = "Tạo nhóm sản phẩm";
+            this.Load += new System.EventHandler(this.frmCreate_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lblName;
+        private ModernUI.Controls.BootstrapButton btnSave;
+        private ModernUI.Controls.BootstrapButton btnCancel;
+        private System.Windows.Forms.Label label2;
+        private ToolBoxCS.TextBoxValidation txtCode;
+        private ToolBoxCS.TextBoxValidation txtName;
+        private ToolBoxCS.LabelNotify lblNotify1;
+        private ToolBoxCS.AutoTextBox txtNote;
+    }
+}

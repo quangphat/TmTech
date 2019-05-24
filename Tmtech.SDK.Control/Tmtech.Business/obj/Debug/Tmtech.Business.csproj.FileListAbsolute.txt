@@ -1,0 +1,12 @@
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\Tmtech.Business.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\Tmtech.Business.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\Tmtech.Data.exe
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\Tmtech.SDK.Core.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\DapperExtensions.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\Dapper.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\Tmtech.Data.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\bin\Debug\Tmtech.SDK.Core.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\obj\Debug\Tmtech.Business.csprojResolveAssemblyReference.cache
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\obj\Debug\Tmtech.Business.csproj.CoreCompileInputs.cache
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\obj\Debug\Tmtech.Business.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Business\obj\Debug\Tmtech.Business.pdb

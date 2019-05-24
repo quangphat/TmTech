@@ -1,0 +1,6 @@
+D:\Work\Tmtech.SDK.Control\Tmtech.SDK.Core\bin\Debug\Tmtech.SDK.Core.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.SDK.Core\bin\Debug\Tmtech.SDK.Core.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.SDK.Core\obj\Debug\Tmtech.SDK.Core.csprojResolveAssemblyReference.cache
+D:\Work\Tmtech.SDK.Control\Tmtech.SDK.Core\obj\Debug\Tmtech.SDK.Core.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.SDK.Core\obj\Debug\Tmtech.SDK.Core.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.SDK.Core\obj\Debug\Tmtech.SDK.Core.csproj.CoreCompileInputs.cache

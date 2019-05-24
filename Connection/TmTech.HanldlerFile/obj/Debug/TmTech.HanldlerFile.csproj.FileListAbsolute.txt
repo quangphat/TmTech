@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.HanldlerFile\bin\Debug\TmTech.HanldlerFile.dll
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.HanldlerFile\bin\Debug\TmTech.HanldlerFile.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.HanldlerFile\obj\Debug\TmTech.HanldlerFile.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.HanldlerFile\obj\Debug\TmTech.HanldlerFile.dll
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.HanldlerFile\obj\Debug\TmTech.HanldlerFile.pdb
+C:\Users\DELL\Documents\Visual Studio 2017\Projects\Connection\TmTech.HanldlerFile\bin\Debug\TmTech.Core.dll
+C:\Users\DELL\Documents\Visual Studio 2017\Projects\Connection\TmTech.HanldlerFile\bin\Debug\TmTech.Core.pdb

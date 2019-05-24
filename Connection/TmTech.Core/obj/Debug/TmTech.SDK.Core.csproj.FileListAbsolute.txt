@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTechBuild\TmTech.Core.dll
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTechBuild\TmTech.Core.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.Core\obj\Debug\TmTech.Core.dll
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.Core\obj\Debug\TmTech.Core.pdb
+C:\Users\DELL\Documents\Visual Studio 2017\Projects\Connection\TmTech.Core\obj\Debug\TmTech.SDK.Core.csprojResolveAssemblyReference.cache

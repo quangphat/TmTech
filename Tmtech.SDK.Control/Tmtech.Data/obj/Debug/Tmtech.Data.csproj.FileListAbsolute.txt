@@ -1,0 +1,16 @@
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\Tmtech.Data.exe
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\Tmtech.Data.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\Dapper.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\DapperExtensions.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\FlatMessageBox.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\ModernUI.Design.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\ModernUI.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\ModernUI.Fonts.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\MoneyToString.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\Tmtech.SDK.Core.dll
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\bin\Debug\Tmtech.SDK.Core.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\obj\Debug\Tmtech.Data.csprojResolveAssemblyReference.cache
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\obj\Debug\Tmtech.Data.exe
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\obj\Debug\Tmtech.Data.pdb
+D:\Work\Tmtech.SDK.Control\Tmtech.Data\obj\Debug\Tmtech.Data.csproj.CoreCompileInputs.cache

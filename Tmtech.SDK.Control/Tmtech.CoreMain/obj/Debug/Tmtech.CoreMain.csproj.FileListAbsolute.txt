@@ -1,0 +1,8 @@
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\bin\Debug\Tmtech.CoreMain.exe.config
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\bin\Debug\Tmtech.CoreMain.exe
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\bin\Debug\Tmtech.CoreMain.pdb
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\bin\Debug\Autofac.dll
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\bin\Debug\Autofac.xml
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\obj\Debug\Tmtech.CoreMain.csprojResolveAssemblyReference.cache
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\obj\Debug\Tmtech.CoreMain.exe
+D:\Developer\Tmtech.SDK.Control\Tmtech.CoreMain\obj\Debug\Tmtech.CoreMain.pdb

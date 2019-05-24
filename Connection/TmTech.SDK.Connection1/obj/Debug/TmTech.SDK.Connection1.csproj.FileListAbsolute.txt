@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.SDK.Connection1\bin\Debug\TmTech.SDK.Connection1.dll
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.SDK.Connection1\bin\Debug\TmTech.SDK.Connection1.pdb
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.SDK.Connection1\obj\Debug\TmTech.SDK.Connection1.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.SDK.Connection1\obj\Debug\TmTech.SDK.Connection1.dll
+c:\users\dell\documents\visual studio 2017\Projects\Connection\TmTech.SDK.Connection1\obj\Debug\TmTech.SDK.Connection1.pdb
+C:\Users\DELL\documents\visual studio 2017\Projects\Connection\TmTechBuild\TmTech.SDK.Connection1.dll
+C:\Users\DELL\documents\visual studio 2017\Projects\Connection\TmTechBuild\TmTech.SDK.Connection1.pdb
+C:\Users\DELL\documents\visual studio 2017\Projects\Connection\TmTechBuild\TmTech.SDK.Connection1.dll.config

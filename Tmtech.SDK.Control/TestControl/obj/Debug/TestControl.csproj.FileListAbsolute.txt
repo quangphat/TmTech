@@ -1,0 +1,30 @@
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.exe
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\bin\Debug\Tmtech.SDK.Control.dll
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\bin\Debug\Tmtech.SDK.Control.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.exe
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.exe.licenses
+F:\Developer\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.exe.config
+F:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.exe
+F:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.pdb
+F:\Developer\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.exe
+F:\Developer\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.pdb
+F:\Developer\Tmtech.SDK.Control\TestControl\bin\Debug\Tmtech.SDK.Control.dll
+F:\Developer\Tmtech.SDK.Control\TestControl\bin\Debug\Tmtech.SDK.Control.pdb
+F:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.csprojResolveAssemblyReference.cache
+F:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.Form1.resources
+F:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.Properties.Resources.resources
+F:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.csproj.GenerateResource.Cache
+F:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.exe.licenses
+D:\developer\tmtech\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.exe.config
+D:\developer\tmtech\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.exe
+D:\developer\tmtech\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.pdb
+D:\Developer\Tmtech.SDK.Control\TestControl\bin\Debug\TestControl.exe.config
+D:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.exe
+D:\Developer\Tmtech.SDK.Control\TestControl\obj\Debug\TestControl.pdb
